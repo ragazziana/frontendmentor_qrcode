@@ -30,7 +30,7 @@ body {
     align-items: center;
 }
 
-.maincard{
+.main-card{
     background: var(--white);
     width: 32rem;
     height: 49.7rem;
