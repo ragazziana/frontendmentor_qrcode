@@ -5,7 +5,7 @@ This is my solution for the [Frontend Mentor project](https://www.frontendmentor
 
 💻 [Here is the live version of my solution](https://ragazziana.github.io/frontendmentor_qrcode/)
 
-💻 [Here is the link of the challenge](https://www.frontendmentor.io/solutions/qr-code-challenge-flex-box-and-css-variables-QI7d4CkKpH)
+💻 [Here is the link for the challenge](https://www.frontendmentor.io/solutions/qr-code-challenge-flex-box-and-css-variables-QI7d4CkKpH)
 
 ### Mobile Version
 
