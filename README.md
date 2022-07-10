@@ -7,7 +7,11 @@ This is my solution for the [Frontend Mentor project](https://www.frontendmentor
 
 💻 [Here is the link of the challenge](https://www.frontendmentor.io/solutions/qr-code-challenge-flex-box-and-css-variables-QI7d4CkKpH)
 
+### Mobile Version
+
 ![This is the Mobile Version](https://github.com/ragazziana/frontendmentor_qrcode/blob/main/design/mobile-design.jpg?raw=true)
+
+### Desktop Version
 
 ![This is the desktop version](https://github.com/ragazziana/frontendmentor_qrcode/blob/main/design/desktop-design.jpg?raw=true)
 
