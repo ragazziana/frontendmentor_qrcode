@@ -4,6 +4,7 @@
 This is my solution for the [Frontend Mentor project](https://www.frontendmentor.io/solutions/qr-code-challenge-flex-box-and-css-variables-QI7d4CkKpH). The challenge was to build a QR code component and get it looking as close to the original design as possible.
 
 💻 [Here is the live version of my solution](https://ragazziana.github.io/frontendmentor_qrcode/)
+
 💻 [Here is the link of the challenge](https://www.frontendmentor.io/solutions/qr-code-challenge-flex-box-and-css-variables-QI7d4CkKpH)
 
 ![This is the Mobile Version](https://github.com/ragazziana/frontendmentor_qrcode/blob/main/design/mobile-design.jpg?raw=true)
